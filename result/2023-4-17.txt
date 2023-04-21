@@ -1,0 +1,18 @@
+（atmosphere，aged，ambulance，advertise，always，agriculture，affair，aim，annoy，anyhow）
+（apology，aircraft，anger，architecture，alcohol，according to，anticipate，ancient，addition，adjust）
+（admit，ability，afterwards，academic，application，appeal，angle，ahead，anxious，arise）
+（already，advance，afraid，alarm，another，argument，apply，appear，alive，amount）
+（appointment，accident，advice，apartment，area，approve，acknowledge，appropriate，agency，anyway）
+（acceptable，appearance，absence，apologize，activity，anxiety，alternative，approach，anybody，announcement）
+（advertisement，anyone，accurate，above，aggressive，angry，adequate，among，analyst，appreciate）
+（appoint，armed，art，advertising，announce，architect，activist，achieve，advise，advantage）
+（arrive，apparent，alone，annual，arrival，arrest，attraction，agent，account，against）
+（accompany，along，accuse，administrative，assignment，arrangement，additional，attract，across，airport）
+（alongside，assist，approval，anywhere，admire，attitude，aspect，access，attractive，approximate）
+（argue，achievement，accommodation，adviser，apart，article，apparently，arrange，around，arm）
+（almost，advanced，artist，association，alter，affect，attach，ashamed，assistant，ambition）
+（agreement，analysis，acid，assure，author，altogether，artificial，aside，assess，audience）
+（assistance，as，allowance，accept，aunt，assumption，absorb，admission，act，actor）
+（abuse，acquire，advert，although，actual，aid，album，analyse，authority，airline）
+（air，actually，army，administration，abroad，attack，assume，associate，adapt，adult）
+（assessment，attend，asleep，attorney，automatic，attempt，attention，adopt）
